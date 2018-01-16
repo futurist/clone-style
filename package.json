@@ -1,0 +1,20 @@
+{
+  "name": "clone-style",
+  "version": "1.0.0",
+  "description": "Clone `<style>` tag node right in browser, for IE9+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurist/clone-style.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurist/clone-style/issues"
+  },
+  "homepage": "https://github.com/futurist/clone-style#readme"
+}
